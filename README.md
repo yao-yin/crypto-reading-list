@@ -160,7 +160,7 @@ _In-depth page: [L1](L1)_
 At this point you might want to dig into different L1 blockchains--both their protocol designs and their ecosystems.
 See in-depth pages below:
 
-* [Historical/academic background](L1/README.md)
+* [Historical/academic background](L1)
 * [Bitcoin](L1/Bitcoin.md)
 * [Ethereum](L1/Ethereum.md)
 * [Avalanche](L1/Avalanche.md)
